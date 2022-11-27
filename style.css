@@ -81,7 +81,7 @@ body {
 .linsk__link,
 .links__link:visited {
   text-decoration: none;
-  color: #cb782f;
+  color: #e0892b;
 }
 
 .links__title {
@@ -100,7 +100,7 @@ footer {
   align-items: center;
   padding: 10px;
   width: 320px;
-  background: #cb782f;
+  background: #fb9d19;
   border-radius: 20px;
 
   font-size: 14px;
