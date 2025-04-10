@@ -13,8 +13,8 @@ body {
 }
 
 .header__avatar {
-  width: 120px;
-  height: 120px;
+  width: 300px;
+  height: 300px;
   object-fit: cover;
   border-radius: 55% 45% 60% 40% / 60% 40% 55% 45%; /* blob-форма */
   transform: rotate(-2deg) scale(0.98);
